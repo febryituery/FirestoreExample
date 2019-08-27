@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "922462287439",
+    "firebase_url": "https://firestore-example-9d9d0.firebaseio.com",
+    "project_id": "firestore-example-9d9d0",
+    "storage_bucket": "firestore-example-9d9d0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:922462287439:android:8da1899224944923",
+        "android_client_info": {
+          "package_name": "com.febryituery.firestore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "922462287439-cs0v692pg49sm73msnme6ss37d2va170.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.febryituery.firestore",
+            "certificate_hash": "761b8c45df1c1850f7e362c1a278170b9570e52d"
+          }
+        },
+        {
+          "client_id": "922462287439-op90niev045btsm14bca4palt2hgfb6o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6m_Jgpi-7C4U6c82ABWOqECxadL-Tv4Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "922462287439-op90niev045btsm14bca4palt2hgfb6o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
